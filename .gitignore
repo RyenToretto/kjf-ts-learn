@@ -47,3 +47,4 @@ pids
 # vercel
 .vercel
 dist
+.idea
