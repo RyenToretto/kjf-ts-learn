@@ -17,7 +17,7 @@ jspm_packages/
 /out/
 
 # production
-/build
+/built
 
 # misc
 .DS_Store
